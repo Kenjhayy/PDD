@@ -1,0 +1,124 @@
+
+  h1 {
+		  text-align: center;
+		  font-family: arial;
+		  padding-top: 50px;
+		  }
+	  
+	   body {
+		  
+		  background: url(davao.png);
+		  background-repeat: no-repeat;
+		  background-attachment: fixed;
+		  background-position: center;
+		  
+		  
+	  }
+	  
+	  
+	  form {
+		  max-width: 1000px;
+	  }
+    
+	.form {
+		   display: flex;
+		   flex-direction: row;
+	       width:350px;
+		   height: 100px;
+		   position: absolute;
+		   transform: translate(600px);
+		   align-items: center;
+		   justify-content: center;
+		   left: 35%;
+           //*background: linear-gradient(to top, rgba(0,0,0,0.5)50%, rgba(0,0,0,0.5)50%);*//
+		   border-radius: 10px;
+		   margin-top: 10px;
+		   
+
+		   
+		   
+		 
+		   
+		   
+		   
+		  
+		  
+	}
+	
+	.form * {
+		font-family: arial;
+	}
+
+
+
+	 .label-text {
+  color: #B4886B;
+  font-weight: bold;
+  font-size: 16px;
+  margin-bottom: 10px;
+  
+	 }
+
+  
+		 
+		 
+		.label {
+			 
+			 margin: 1px;
+			 
+			 
+			
+		 }
+		 
+	  .label input {
+		  width: 200px;
+		  margin: 10px;
+		  
+	  }
+	  
+       
+	  
+	   
+	  .form button {
+		  display: flex;
+		  background-color: none;
+		  width: 225px;
+		  justify-content: center;
+		  padding: 12px;
+		  text: center;
+		  border-radius: 10px;
+		  border: none;
+		  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+          margin-left: 10px;
+		  font-weight: bold;
+		 
+		  
+	  }
+	  
+	  button:hover {
+		  background: rgba(108, 162,224,0.8);
+		  color: #000000;
+		  
+	  }
+	  
+	  .input {
+		  padding:12px;
+		  border: 1px solid #e0e0e0;
+		  outline: none;
+		  border-radius: 6px;
+		  font-size: 16px;
+		  color: #333333;
+	  }
+	  
+	  input:focus {
+		  border-color: #009578;
+	  }
+	  
+	 
+	  
+
+	   
+
+
+
+	   
